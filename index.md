@@ -6,20 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cute baby
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Baby Fan
+## Hello World
+![image](https://user-images.githubusercontent.com/80022068/109914288-9477c200-7cea-11eb-9d71-11185a81769b.png)
+## 2nd Day
+![image](https://user-images.githubusercontent.com/80022068/109914316-a9545580-7cea-11eb-97e9-ebc5c12674cc.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
